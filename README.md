@@ -1,4 +1,4 @@
-# pw-generator
+# Password Generator
 
 ## Project setup
 ```
